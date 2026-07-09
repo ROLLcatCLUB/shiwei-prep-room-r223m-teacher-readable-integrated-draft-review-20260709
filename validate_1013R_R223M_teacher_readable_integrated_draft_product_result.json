@@ -1,0 +1,578 @@
+{
+  "passed": true,
+  "check_count": 114,
+  "failed": 0,
+  "failures": [],
+  "checks": [
+    {
+      "name": "required_file:R223M_teacher_readable_integrated_draft.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_teacher_readable_integrated_draft.md"
+    },
+    {
+      "name": "non_empty:R223M_teacher_readable_integrated_draft.md",
+      "passed": true,
+      "detail": "10656"
+    },
+    {
+      "name": "required_file:R223M_teacher_readable_integrated_draft.html",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_teacher_readable_integrated_draft.html"
+    },
+    {
+      "name": "non_empty:R223M_teacher_readable_integrated_draft.html",
+      "passed": true,
+      "detail": "16801"
+    },
+    {
+      "name": "required_file:R223M_reasoning_trace_appendix.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_reasoning_trace_appendix.md"
+    },
+    {
+      "name": "non_empty:R223M_reasoning_trace_appendix.md",
+      "passed": true,
+      "detail": "2744"
+    },
+    {
+      "name": "required_file:R223M_component_embedding_notes.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_component_embedding_notes.md"
+    },
+    {
+      "name": "non_empty:R223M_component_embedding_notes.md",
+      "passed": true,
+      "detail": "1490"
+    },
+    {
+      "name": "required_file:R223M_material_and_evidence_embedding_notes.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_material_and_evidence_embedding_notes.md"
+    },
+    {
+      "name": "non_empty:R223M_material_and_evidence_embedding_notes.md",
+      "passed": true,
+      "detail": "1408"
+    },
+    {
+      "name": "required_file:R223M_before_after_compare_with_R223L_P2.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_before_after_compare_with_R223L_P2.md"
+    },
+    {
+      "name": "non_empty:R223M_before_after_compare_with_R223L_P2.md",
+      "passed": true,
+      "detail": "1317"
+    },
+    {
+      "name": "required_file:R223M_report.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\R223M_report.md"
+    },
+    {
+      "name": "non_empty:R223M_report.md",
+      "passed": true,
+      "detail": "1702"
+    },
+    {
+      "name": "required_file:README_FOR_GPT_REVIEW.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\README_FOR_GPT_REVIEW.md"
+    },
+    {
+      "name": "non_empty:README_FOR_GPT_REVIEW.md",
+      "passed": true,
+      "detail": "1276"
+    },
+    {
+      "name": "required_file:README.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT\\README.md"
+    },
+    {
+      "name": "non_empty:README.md",
+      "passed": true,
+      "detail": "773"
+    },
+    {
+      "name": "main_contains:一、课时定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:二、教学依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:三、教学目标",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:四、教学重难点",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:五、教学准备",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:六、教学过程",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:七、评价与证据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:八、板书 / 大屏结构",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:九、附：生成依据与推理链说明",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:不是让学生随意装饰文具",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:真实使用问题",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:1+1 小设计",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:1+n 文具大变身",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:笔友汇",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:购买文具建议书",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_contains:文具课堂使用指南",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:data-card-wall=\"false\"",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:《我为文具代言》：智造·新朋友",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:课时定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:教学依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:教学过程",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:评价与证据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:教师可读整合稿",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_contains:不是正式 UI",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:大观念",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:基本问题",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:表现性任务",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:四阶段责任",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:本课责任",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:活动链",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:评价证据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "appendix_contains:Teacher Confirmation Points",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_not_card_wall_phrase",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_declares_not_card_wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "component_notes_no_tool_shelf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "material_notes_evidence_chain",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "compare_records_shift",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "report_blocks_formal_ui",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_has_9_sections",
+      "passed": true,
+      "detail": "9"
+    },
+    {
+      "name": "main_table_count_low",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "name": "html_card_class_absent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:appendix:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:appendix:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:appendix:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:appendix:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:appendix:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:appendix:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:component:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:component:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:component:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:component:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:component:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:component:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:material:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:material:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:material:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:material:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:material:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:material:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "screenshot_exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "screenshot_non_empty",
+      "passed": true,
+      "detail": "678799"
+    },
+    {
+      "name": "smoke_json_valid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "smoke_no_horizontal_overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "smoke_not_card_wall",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "name": "smoke_key_sections_present",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
