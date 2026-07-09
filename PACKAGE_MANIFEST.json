@@ -1,0 +1,84 @@
+{
+  "stage_id": "1013R_R223M_TEACHER_READABLE_INTEGRATED_DRAFT_PRODUCT",
+  "status": "READY_FOR_TEACHER_READABLE_DRAFT_REVIEW",
+  "created_at_utc": "2026-07-09T07:12:37.130393+00:00",
+  "formal_ui": false,
+  "r97b_modified": false,
+  "runtime_model_prompt_db": false,
+  "review_order": [
+    "R223M_teacher_readable_integrated_draft.html",
+    "R223M_teacher_readable_integrated_draft_screenshot.png",
+    "R223M_teacher_readable_integrated_draft.md",
+    "R223M_reasoning_trace_appendix.md",
+    "R223M_before_after_compare_with_R223L_P2.md",
+    "R223M_report.md"
+  ],
+  "teacher_first_review_question": "Does this read like a teacher-readable prep draft rather than a card wall?",
+  "files": [
+    {
+      "path": "R223M_before_after_compare_with_R223L_P2.md",
+      "size": 1317,
+      "sha256": "9F8B80DABCC3D1DE126A278EDA062E8B60DB60B1446B72E1CBFD144773668F10"
+    },
+    {
+      "path": "R223M_component_embedding_notes.md",
+      "size": 1490,
+      "sha256": "9D2053C03B5689BF36F19A0A61E88ED4F5B1EFE2CB95852EA3DB7D8ED6036C5E"
+    },
+    {
+      "path": "R223M_material_and_evidence_embedding_notes.md",
+      "size": 1408,
+      "sha256": "3083CA63BFC072B595D64866A8D8B277166D043F63FAA07A39F535B7D6D55B63"
+    },
+    {
+      "path": "R223M_reasoning_trace_appendix.md",
+      "size": 2744,
+      "sha256": "CDEFC2612A821B67EA3FA30F3670CF02E7927C48DAE48D66A786F998876EC6E2"
+    },
+    {
+      "path": "R223M_report.md",
+      "size": 1702,
+      "sha256": "3F035BDC97FE92D1FB1AB41190DC60C6F4F67E13E3790B9D22C1DB657EFDACEE"
+    },
+    {
+      "path": "R223M_screenshot_smoke_result.json",
+      "size": 491,
+      "sha256": "771342060C34335733E2596BE1875FDF7EF74DA7A7FDF6F4B071C66CA3AE9A19"
+    },
+    {
+      "path": "R223M_teacher_readable_integrated_draft.html",
+      "size": 16801,
+      "sha256": "3D282538AD2CD80681D3A268E2D923111DFF6989DDC57D67D720D43FEAD948BE"
+    },
+    {
+      "path": "R223M_teacher_readable_integrated_draft.md",
+      "size": 10656,
+      "sha256": "D123F2402FCA11A14544F32E38F1C412EE02A3C8B707D5CF90A96B0D0CA21559"
+    },
+    {
+      "path": "R223M_teacher_readable_integrated_draft_screenshot.png",
+      "size": 678799,
+      "sha256": "1AE511F5B6597BFFE0F87F7295394DAF8492BCDD38BC4FA497C56E901FC067E4"
+    },
+    {
+      "path": "README.md",
+      "size": 773,
+      "sha256": "B702B871AFED5CB89AD87EB52F25AD070F843FEB6F4C393C98FB713823D16584"
+    },
+    {
+      "path": "README_FOR_GPT_REVIEW.md",
+      "size": 1276,
+      "sha256": "DD2ACB91EE483170F3AE6B77DC63B79A35AECDD07DD655B069A189ABED42C104"
+    },
+    {
+      "path": "validate_1013R_R223M_teacher_readable_integrated_draft_product.py",
+      "size": 5888,
+      "sha256": "C2D695B1B407EF6CF8376E8FA0C0D4293D59F3B715C82B434EB4515F8684FA20"
+    },
+    {
+      "path": "validate_1013R_R223M_teacher_readable_integrated_draft_product_result.json",
+      "size": 14832,
+      "sha256": "71AE1B0B7E93CF078870F20829D61DEB43EFD5375DE96218B69D55D563EC4BD6"
+    }
+  ]
+}
